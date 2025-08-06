@@ -1,20 +1,3 @@
-Table of Contents:
-
-Introduction
-
-Evaluation Areas
-
-Functionality
-
-Performance
-
-Usability
-
-Test Scenarios
-
-Reporting Issues
-
-
 Introduction:
 
 EventSpark is a web-based platform designed to help users discover, manage, and promote events. This evaluation aims to ensure that the website operates seamlessly, performs efficiently, and offers an intuitive user experience.
