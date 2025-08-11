@@ -2,15 +2,12 @@
 
 EventSpark is a web-based platform designed to help users discover, manage, and promote events. This evaluation aims to ensure that the website operates seamlessly, performs efficiently, and offers an intuitive user experience.
 
-## 🛠 Tech Stack  
-
-| Category           | Details |
-|--------------------|---------|
-| **Testing Types**  | Manual Testing · Functional Testing · UI Testing · E-commerce Testing |
-| **Test Artifacts** | Test Scenarios · Test Cases · Test Documentation |
-| **Defect Handling**| Bug Reporting · Defect Tracking Tools |
-| **Focus Areas**    | Web Application Testing · Cross-Browser Testing |
-
+## 🛠 Tech Stack
+- **Testing Types:** Manual, Functional, UI, E-commerce, Cross-Browser Testing
+- **Test Artifacts:** Test Scenarios, Test Cases, Test Documentation
+- **Defect Handling:** Bug Reporting, Defect Tracking
+- **Focus Areas:** Web Application, Performance, Usability, Accessibility Testing
+- **Tools & Environment:** Chrome, Edge, Desktop, Mobile, Various Network Conditions
 
 ## Evaluation Areas:
 
