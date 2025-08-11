@@ -1,8 +1,18 @@
-Introduction:
+## Introduction:
 
 EventSpark is a web-based platform designed to help users discover, manage, and promote events. This evaluation aims to ensure that the website operates seamlessly, performs efficiently, and offers an intuitive user experience.
 
-Evaluation Areas:
+## 🛠 Tech Stack  
+
+| Category           | Details |
+|--------------------|---------|
+| **Testing Types**  | Manual Testing · Functional Testing · UI Testing · E-commerce Testing |
+| **Test Artifacts** | Test Scenarios · Test Cases · Test Documentation |
+| **Defect Handling**| Bug Reporting · Defect Tracking Tools |
+| **Focus Areas**    | Web Application Testing · Cross-Browser Testing |
+
+
+## Evaluation Areas:
 
 1. Functionality
 Evaluate whether all features and components work as intended:
@@ -22,7 +32,7 @@ Clarity of navigation
 Accessibility 
 Mobile responsiveness
 
-Setup Instructions:
+## Setup Instructions:
 
 Access the Website:
 
@@ -35,7 +45,7 @@ Testing Environment:
 Browser: [Chrome/Edge]
 Devices: Desktop and Mobile
 
-Test Scenarios:
+## Test Scenarios:
 
 Functional Testing:
 
@@ -56,7 +66,7 @@ Navigate through the homepage, event details etc.
 Use the website on different devices (mobile, desktop).
 Test accessibility features like text scaling, color contrast etc.
 
-Issue Summary Report:
+## Issue Summary Report:
 
 Total Issues Identified: 41
 
@@ -78,7 +88,7 @@ Medium Priority (13 Reports):
 Searching for Events.
  Footer section.
 
-Recommendations:
+## Recommendations:
 
 Fix critical functionality like sign up, login errors.
 
